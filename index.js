@@ -1,6 +1,9 @@
 
-
-  console.log(myCollection);
+import myCollection from "./collection.js";
+  
+  
+  
+console.log(myCollection);
 
 //2c. Create a function called `describeItem`, which should take in an item as a parameter 
 function describeItem(item){        // describe item taking in an object
